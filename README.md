@@ -24,7 +24,6 @@
             <li><strong><code>js/</code></strong> - JavaScript files for website interactivity.</li>
         </ul>
     </li>
-    <li><strong><code>privacy-policy/</code></strong> - Privacy policy for the "Snowman Run" project.</li>
     <li><strong><code>Preview.png</code></strong> - Website preview.</li>
     <li><strong><code>README.md</code></strong> - This file.</li>
 </ul>
